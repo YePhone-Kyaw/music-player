@@ -1,0 +1,2 @@
+export const MUSIC_API_KEY = "dxldulBmWHWv9rhyK8oyr"
+export const MONGODB_URI = "mongodb+srv://yephonekyaw920:mongoDB123@music-player.s19n0.mongodb.net/?retryWrites=true&w=majority&appName=music-player"
